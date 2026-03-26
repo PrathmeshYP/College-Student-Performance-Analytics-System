@@ -149,9 +149,8 @@ A Power BI dashboard is included to visualize:
 
 ## 👨‍💻 Author
 
-**Your Name**
-📧 [your-email@example.com](mailto:your-email@example.com)
-🔗 LinkedIn: https://linkedin.com/in/your-profile
+**Prathmesh YadavPatil**
+📧 [prathmeshyadavpatil9495@gmail.com](prathmeshyadavpatil9495@gmail.com)
 
 ---
 
