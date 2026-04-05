@@ -127,15 +127,6 @@ streamlit run app.py
 
 ---
 
-## 📈 Dashboard
-
-A Power BI dashboard is included to visualize:
-
-* Student performance trends
-* Risk distribution
-* Study hours vs marks
-
----
 
 ## 🔍 Future Improvements
 
