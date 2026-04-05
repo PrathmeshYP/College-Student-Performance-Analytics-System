@@ -150,8 +150,4 @@ streamlit run app.py
 
 Feel free to fork this repository and improve it!
 
----
 
-## 📌 Conclusion
-
-This project demonstrates a complete data analytics pipeline from raw data to deployment, making it ideal for showcasing skills in Data Science, Machine Learning, and Data Visualization.
