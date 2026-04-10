@@ -22,7 +22,7 @@ This project solves that problem by:
 * Pandas & NumPy
 * Scikit-learn
 * Streamlit (for web app)
-* Power BI (for dashboard)
+* Power BI 
 
 ---
 
