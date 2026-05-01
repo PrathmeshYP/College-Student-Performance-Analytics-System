@@ -55,7 +55,7 @@ student-performance-analytics
 ## ⚙️ Features
 
 * ✔ Data Cleaning & Preprocessing
-* ✔ Feature Engineering (Total Score, Study Efficiency)
+* ✔ Feature Engineering 
 * ✔ Risk Level Detection (High, Medium, Low)
 * ✔ Machine Learning Model (Random Forest)
 * ✔ Model Evaluation
