@@ -56,7 +56,7 @@ student-performance-analytics
 
 * ✔ Data Cleaning & Preprocessing
 * ✔ Feature Engineering 
-* ✔ Risk Level Detection (High, Medium, Low)
+* ✔ Risk Level Detection 
 * ✔ Machine Learning Model (Random Forest)
 * ✔ Model Evaluation
 * ✔ Interactive Prediction App using Streamlit
