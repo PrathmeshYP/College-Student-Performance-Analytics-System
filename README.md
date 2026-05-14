@@ -148,6 +148,6 @@ streamlit run app.py
 
 ## ⭐ Contribute
 
-Feel free to fork this repository and improve it!
+Feel free to fork this repository and improve it.
 
 
